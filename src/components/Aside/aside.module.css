@@ -1,0 +1,5 @@
+.aside {
+    max-width: 282px;
+    background-color: var(--neutral-header);
+    min-height: 100vh;
+}
